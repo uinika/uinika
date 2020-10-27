@@ -1,10 +1,8 @@
-### Hi there 👋
+## Welcome to **Hank**'s Github. 👋
 
-Welcome to Hank's Github.
+🌱 I am a Electronics, Embedded & Web Developer with interesting ideas.
 
-I am a Electronics, Embedded & Web Developer with interesting ideas.
-
-- 😄 Here is my blog https://uinika.gitee.io/;
+- 😄 Here is my Blog https://uinika.gitee.io/;
 - 😄 Here is my Zhihu https://www.zhihu.com/people/uinika;
 
 <!--
