@@ -1,9 +1,9 @@
-## Welcome to **Hank**'s Github. 👋
+## Welcome to **Hank**'s Github. 😄
 
-🌱 I am a Electronics, Embedded & Web Developer with interesting ideas.
+🌱 I am a **Electronics**, **Embedded** & **Web** Developer with interesting ideas.
 
-- 😄 Here is my Blog https://uinika.gitee.io/;
-- 😄 Here is my Zhihu https://www.zhihu.com/people/uinika;
+- ⚡ Here is my Blog https://uinika.gitee.io/;
+- ⚡ Here is my Zhihu https://www.zhihu.com/people/uinika;
 
 <!--
 **uinika/uinika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
