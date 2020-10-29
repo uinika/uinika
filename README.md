@@ -1,4 +1,4 @@
-## Welcome to **Hank**'s Github. :sunglasses:
+## Welcome to **Hank**'s Github repositories. :sunglasses:
 
 🌱 I am a **Electronics**, **Embedded** & **Web** Developer with interesting ideas.
 
